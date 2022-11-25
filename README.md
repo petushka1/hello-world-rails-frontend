@@ -5,6 +5,8 @@
 
 ## Backend link
 
+- [Github repo](https://github.com/petushka1/hello-world-rails-backend)
+
 - [backend-app](../../../hello-rails-backend)
 
 
